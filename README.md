@@ -28,10 +28,10 @@
 
 ## (Additional) TensorFlow: Advanced Techniques
 
-1. [Neural Networks and Deep Learning](./coursera_DL_specialization/DLS_1_NN_and_DL)
-2. [Improving Deep Neural Network](./coursera_DL_specialization/DLS_2_Improving_DNN): Hyperparameter Tuning, Regularization and Optimization
-3. [Structuring Machine Learning Projects](./coursera_DL_specialization/DLS_3_Structuring_ML_projects)
-4. [Convolutional Neural Networks](./coursera_DL_specialization/DLS_4_CNNs)
+1. [Custom Models](./TF_advanced_techniques/TFAT_1_custom_models)
+2. [Custom Training](./TF_advanced_techniques/TFAT_2_custom_training)
+3. [Advanced Computer Vision](./TF_advanced_techniques/TFAT_3_advanced_CV)
+4. [Generative Deep Learning](./TF_advanced_techniques/TFAT_4_generative_DL)
 
 ---
 
